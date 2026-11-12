@@ -91,8 +91,8 @@
 .text--u-i5yobgq0c {padding-left: 8px; padding-right: 8px; padding-top: 2px; padding-bottom: 2px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-left-radius: 4px; border-bottom-right-radius: 4px; background-color: rgb(79, 37, 55);}
 .text--u-in8c4g6m4 {padding-left: 8px; padding-right: 8px; padding-top: 2px; padding-bottom: 2px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-left-radius: 4px; border-bottom-right-radius: 4px; background-color: rgb(79, 37, 55);}
 .div--u-ifup7w50q {display: flex; flex-wrap: wrap; row-gap: 8px; column-gap: 8px;}
-.root--u-i1hby8zk2 {background-size: auto, auto; background-image: url("../assets/img/ascii-art4.gif"), linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat; background-position: left calc(677px + 50%) center, left 0px top 0px; background-attachment: fixed, scroll;}
-.root--u-i8pcolesv {background-size: auto, auto; background-image: url("../assets/img/ascii-art4.gif"), linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat; background-position: left calc(97px + 50%) center, left 0px top 0px; background-attachment: fixed, scroll;}
+.root--u-i1hby8zk2 {background-size: auto, auto; background-image: url("../assets/img/ascii-art4.webp"), linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat; background-position: left calc(677px + 50%) center, left 0px top 0px; background-attachment: fixed, scroll;}
+.root--u-i8pcolesv {background-size: auto, auto; background-image: url("../assets/img/ascii-art4.webp"), linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat; background-position: left calc(97px + 50%) center, left 0px top 0px; background-attachment: fixed, scroll;}
 .div--u-i14o04za2 {position: static; width: 97%; display: flex; justify-content: flex-start; flex-direction: column; align-items: flex-start; margin-left: 14%; margin-right: 0%; height: 100%;}
 .div--u-i8ffno7xi {position: static; width: 97%; display: flex; justify-content: flex-start; flex-direction: column; align-items: flex-start; margin-left: 14%; margin-right: 0%; height: 900px;}
 .section--u-i52jq7qbf {padding-left: 32px; padding-right: 32px; padding-top: 16px; background-size: auto; background-image: linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat; background-position: left 0px top 0px; background-attachment: scroll; position: fixed; z-index: 10;}
@@ -146,7 +146,7 @@
 @media (max-width: 991px) {.video--u-i4fiqbqwo {width: 100%;}}
 @media (max-width: 991px) {.div--u-ifn1z9azi {width: 80%;}}
 @media (max-width: 991px) {.video--u-iaelpncb0 {width: 100%;}}
-@media (max-width: 991px) {.root--u-i1hby8zk2 {background-size: auto, auto; background-image: none/*url("../assets/img/ascii-art4.gif")*/, linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat; background-position: left calc(677px + 50%) center, left 0px top 0px; background-attachment: fixed, scroll;}}
+@media (max-width: 991px) {.root--u-i1hby8zk2 {background-size: auto, auto; background-image: none/*url("../assets/img/ascii-art4.webp")*/, linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat; background-position: left calc(677px + 50%) center, left 0px top 0px; background-attachment: fixed, scroll;}}
 @media (max-width: 767px) {.div--u-i3m51dnwt {width: 100%;}}
 @media (max-width: 767px) {.div--u-ii8jtdic8 {width: 100%;}}
 @media (max-width: 767px) {.div--u-i2nh2mxg3 {width: 100%;}}

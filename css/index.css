@@ -56,7 +56,7 @@
 .text--u-i5yobgq0c {padding-left: 8px; padding-right: 8px; padding-top: 2px; padding-bottom: 2px; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; background-color: rgb(79, 37, 55);}
 .text--u-in8c4g6m4 {padding-left: 8px; padding-right: 8px; padding-top: 2px; padding-bottom: 2px; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; background-color: rgb(79, 37, 55);}
 .div--u-ifup7w50q {display: flex; flex-wrap: wrap; row-gap: 8px; column-gap: 8px;}
-.root--u-i8pcolesv {background-size: auto, auto; background-image: url("../assets/img/ascii-art4.gif"), linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat; background-position: left calc(677px + 50%) center, left 0px top 0px; background-attachment: fixed, scroll;}
+.root--u-i8pcolesv {background-size: auto, auto; background-image: url("../assets/img/ascii-art4.webp"), linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat; background-position: left calc(677px + 50%) center, left 0px top 0px; background-attachment: fixed, scroll;}
 .div--u-i8ffno7xi {position: static; width: 97%; display: flex; justify-content: flex-start; flex-direction: column; align-items: flex-start; margin-left: 14%; margin-right: 0%; height: 900px;}
 .section--u-i8f7u4q8v {padding-left: 32px; padding-right: 32px; padding-top: 16px; background-size: auto; background-image: linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat; background-position: left 0px top 0px; background-attachment: scroll; position: fixed; z-index: 10;}
 .div--u-i5cohlxo4 {width: 1px; position: fixed; border-top-width: 0px; border-right-width: 1px; border-bottom-width: 0px; border-left-width: 0px; border-right-color: rgba(255, 255, 255, 1); border-right-style: solid; height: 100%; right: 31px; text-align: right; display: flex; justify-content: flex-end; flex-direction: row-reverse;}
@@ -75,7 +75,7 @@
 @media (max-width: 991px) {.div--u-i5cohlxo4 {right: 15px;}}
 @media (max-width: 991px) {.div--u-isv6ujn9z {right: 15px;}}
 @media (max-width: 991px) {.div--u-isihz3p20 {width: 68%;}}
-@media (max-width: 991px) {.root--u-i8pcolesv {background-size: auto, auto; background-image: none/*url("../assets/img/ascii-art4.gif")*/, linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat; background-position: left calc(677px + 50%) center, left 0px top 0px; background-attachment: fixed, scroll;}}
+@media (max-width: 991px) {.root--u-i8pcolesv {background-size: auto, auto; background-image: none/*url("../assets/img/ascii-art4.webp")*/, linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat; background-position: left calc(677px + 50%) center, left 0px top 0px; background-attachment: fixed, scroll;}}
 @media (max-width: 767px) {.div--u-i3m51dnwt {width: 100%;}}
 @media (max-width: 767px) {.div--u-ii8jtdic8 {width: 100%;}}
 @media (max-width: 767px) {.div--u-i2nh2mxg3 {width: 100%;}}
@@ -124,7 +124,7 @@
 @media (max-width: 479px) {.div--u-isihz3p20 {width: 92%;}}
 @media (max-width: 479px) {.button--u-izr62j5xr {width: 100%;}}
 @media (max-width: 479px) {.button--u-izr62j5xr:hover {width: 100%;}}
-@media (max-width: 479px) {.root--u-i8pcolesv {background-position: left calc(677px + 50%) top calc(9px + 50%), left 0px top 0px; background-size: auto, auto; background-image: none/*url("../assets/img/ascii-art4.gif")*/, linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat;}}
+@media (max-width: 479px) {.root--u-i8pcolesv {background-position: left calc(677px + 50%) top calc(9px + 50%), left 0px top 0px; background-size: auto, auto; background-image: none/*url("../assets/img/ascii-art4.webp")*/, linear-gradient(rgba(19, 19, 20, 1) 0%, rgba(19, 19, 20, 1) 100%); background-repeat: no-repeat, no-repeat;}}
 @media (max-width: 479px) {.text--u-ihmy5pmbv {padding-left: 8px; padding-right: 8px; padding-top: 4px; padding-bottom: 4px;}}
 @media (min-width: 1920px) {.text--u-i2cfiv9n1 {font-size: 18px;}}
 @media (min-width: 1920px) {.text--u-idyqvmt2q {font-size: 18px;}}
